@@ -1,0 +1,11 @@
+Scope"// 
+
+*.ably.com
+
+*.realtime.ably.net
+
+*-realtime.ably.io
+
+*-rest.ably.io
+
+*.ably-realtime.com
